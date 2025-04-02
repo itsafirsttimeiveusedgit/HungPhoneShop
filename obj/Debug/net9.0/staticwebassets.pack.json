@@ -257,6 +257,66 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a14.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_a14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a54.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_a54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_iphone13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone14pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_iphone14pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone15.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_iphone15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone16.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_iphone16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphonese2023.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_iphonese2023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_mi11ultra.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_mi11ultra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redmik40.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_redmik40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redminote12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_redminote12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_s23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23ultra.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_s23ultra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_xiaomi12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi13pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_xiaomi13pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_zflip5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image_url_zflip5.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HungPhoneShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VcH2uVK7NPPouB9afT0G2y0ewTUsfISp+24l0wO9QU4=",
+  "Hash": "wh3W8x2B1Hrxb+Lfh8aoaSMxoIbXZa1wZbBkqT9hy44=",
   "Source": "HungPhoneShop",
   "BasePath": "_content/HungPhoneShop",
   "Mode": "Default",
@@ -2724,6 +2724,321 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a14.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_a14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qhxjjt1500",
+      "Integrity": "sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_a14.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a54.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_a54#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0a4joizct3",
+      "Integrity": "mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_a54.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone13.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_iphone13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0jqbuqjeq",
+      "Integrity": "0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_iphone13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone14pro.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_iphone14pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "10xw96tnud",
+      "Integrity": "EYBcTi501ZRsEn5Y8GNqprMumeO+f1ianoj+EXqp+6E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_iphone14pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone15.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_iphone15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2tt3cdv4ws",
+      "Integrity": "pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/+2mM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_iphone15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone16.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_iphone16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l4z8x9a2s8",
+      "Integrity": "1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_iphone16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphonese2023.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_iphonese2023#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yzt2d7ak7g",
+      "Integrity": "Xk00qpFmoZlMD4mfgtFTz5GShNXSn+NCLxwL2ta7R74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_iphonese2023.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_mi11ultra.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_mi11ultra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gnl3vtenir",
+      "Integrity": "pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_mi11ultra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redmik40.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_redmik40#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6wu84w01r",
+      "Integrity": "imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1+mNmLicA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_redmik40.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redminote12.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_redminote12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0sjli0ithu",
+      "Integrity": "oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_redminote12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_s23#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hki0enf64",
+      "Integrity": "LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_s23.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23ultra.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_s23ultra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7ttpj7ed8",
+      "Integrity": "Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_s23ultra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi12.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_xiaomi12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bxcskkvebz",
+      "Integrity": "bwRrm3i3Kd94oHWK1PKHQee+AFJ1qM4yarisoMsvTeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_xiaomi12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi13pro.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_xiaomi13pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qtw0ji5lpt",
+      "Integrity": "LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_xiaomi13pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_zflip5.jpg",
+      "SourceId": "HungPhoneShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\",
+      "BasePath": "_content/HungPhoneShop",
+      "RelativePath": "uploads/image_url_zflip5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jaonrcrwe3",
+      "Integrity": "RcpigQ1mJu+yDZb1BVqKbsl18kuZSx7DP2frxm8rzBM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image_url_zflip5.jpg"
     }
   ],
   "Endpoints": [
@@ -21878,6 +22193,1236 @@
         {
           "Name": "integrity",
           "Value": "sha256-JKWeHUaANNuffeRatdc54UCb84RoxjEw/nTq8Mops8Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_a14.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_a14.qhxjjt1500.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qhxjjt1500"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_a14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_a54.0a4joizct3.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0a4joizct3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_a54.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_a54.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_a54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone13.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:10:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone13.y0jqbuqjeq.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:10:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0jqbuqjeq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_iphone13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone14pro.10xw96tnud.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone14pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYBcTi501ZRsEn5Y8GNqprMumeO+f1ianoj+EXqp+6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:09:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "10xw96tnud"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_iphone14pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYBcTi501ZRsEn5Y8GNqprMumeO+f1ianoj+EXqp+6E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone14pro.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone14pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYBcTi501ZRsEn5Y8GNqprMumeO+f1ianoj+EXqp+6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:09:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYBcTi501ZRsEn5Y8GNqprMumeO+f1ianoj+EXqp+6E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone15.2tt3cdv4ws.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/+2mM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:08:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tt3cdv4ws"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_iphone15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/+2mM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone15.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/+2mM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:08:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/+2mM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone16.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:07:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphone16.l4z8x9a2s8.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphone16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:07:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l4z8x9a2s8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_iphone16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphonese2023.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphonese2023.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xk00qpFmoZlMD4mfgtFTz5GShNXSn+NCLxwL2ta7R74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:11:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xk00qpFmoZlMD4mfgtFTz5GShNXSn+NCLxwL2ta7R74="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_iphonese2023.yzt2d7ak7g.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_iphonese2023.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xk00qpFmoZlMD4mfgtFTz5GShNXSn+NCLxwL2ta7R74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:11:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yzt2d7ak7g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_iphonese2023.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xk00qpFmoZlMD4mfgtFTz5GShNXSn+NCLxwL2ta7R74="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_mi11ultra.gnl3vtenir.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_mi11ultra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:15:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnl3vtenir"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_mi11ultra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_mi11ultra.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_mi11ultra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:15:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_redmik40.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redmik40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1+mNmLicA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:15:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1+mNmLicA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_redmik40.u6wu84w01r.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redmik40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1+mNmLicA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:15:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6wu84w01r"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_redmik40.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1+mNmLicA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_redminote12.0sjli0ithu.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redminote12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:14:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0sjli0ithu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_redminote12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_redminote12.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_redminote12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:14:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_s23.9hki0enf64.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "782709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hki0enf64"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_s23.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_s23.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "782709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_s23ultra.e7ttpj7ed8.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23ultra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7ttpj7ed8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_s23ultra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_s23ultra.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_s23ultra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_xiaomi12.bxcskkvebz.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwRrm3i3Kd94oHWK1PKHQee+AFJ1qM4yarisoMsvTeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:15:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bxcskkvebz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_xiaomi12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwRrm3i3Kd94oHWK1PKHQee+AFJ1qM4yarisoMsvTeM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_xiaomi12.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwRrm3i3Kd94oHWK1PKHQee+AFJ1qM4yarisoMsvTeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:15:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwRrm3i3Kd94oHWK1PKHQee+AFJ1qM4yarisoMsvTeM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_xiaomi13pro.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi13pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_xiaomi13pro.qtw0ji5lpt.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_xiaomi13pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qtw0ji5lpt"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_xiaomi13pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_zflip5.jaonrcrwe3.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_zflip5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RcpigQ1mJu+yDZb1BVqKbsl18kuZSx7DP2frxm8rzBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:13:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jaonrcrwe3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/image_url_zflip5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RcpigQ1mJu+yDZb1BVqKbsl18kuZSx7DP2frxm8rzBM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/image_url_zflip5.jpg",
+      "AssetFile": "C:\\Users\\Hung\\HungPhoneShop\\wwwroot\\uploads\\image_url_zflip5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RcpigQ1mJu+yDZb1BVqKbsl18kuZSx7DP2frxm8rzBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 04:13:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RcpigQ1mJu+yDZb1BVqKbsl18kuZSx7DP2frxm8rzBM="
         }
       ]
     }

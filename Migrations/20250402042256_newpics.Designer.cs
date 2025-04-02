@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HungPhoneShop.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250402035854_newupdb")]
-    partial class newupdb
+    [Migration("20250402042256_newpics")]
+    partial class newpics
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

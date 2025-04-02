@@ -112,39 +112,39 @@ using (var scope = app.Services.CreateScope())
         var products = new List<(string Brand, string Model, decimal Price, string Features, string ImageUrl)>
         {
             // Apple
-            ("Apple", "iPhone 16", 1099.99m, "iPhone 16 with A16 Bionic chip, 5G, 6.7-inch display", "image_url_iphone16"),
-            ("Apple", "iPhone 15", 999.99m, "iPhone 15 with A15 Bionic chip, 5G, 6.1-inch display", "image_url_iphone15"),
-            ("Apple", "iPhone 14 Pro", 1099.00m, "iPhone 14 Pro with Dynamic Island, 48MP camera", "image_url_iphone14pro"),
-            ("Apple", "iPhone SE 2023", 429.00m, "iPhone SE with A15 Bionic chip, 5G", "image_url_iphonese2023"),
-            ("Apple", "iPhone 13", 799.00m, "iPhone 13 with A15 Bionic chip, dual camera system", "image_url_iphone13"),
+            ("Apple", "iPhone 16", 1099.99m, "iPhone 16 with A16 Bionic chip, 5G, 6.7-inch display", "/uploads/image_url_iphone16"),
+            ("Apple", "iPhone 15", 999.99m, "iPhone 15 with A15 Bionic chip, 5G, 6.1-inch display", "/uploads/image_url_iphone15"),
+            ("Apple", "iPhone 14 Pro", 1099.00m, "iPhone 14 Pro with Dynamic Island, 48MP camera", "/uploads/image_url_iphone14pro"),
+            ("Apple", "iPhone SE 2023", 429.00m, "iPhone SE with A15 Bionic chip, 5G", "/uploads/image_url_iphonese2023"),
+            ("Apple", "iPhone 13", 799.00m, "iPhone 13 with A15 Bionic chip, dual camera system", "/uploads/image_url_iphone13"),
 
             // Samsung
-            ("Samsung", "Galaxy S23 Ultra", 1199.99m, "Galaxy S23 Ultra with 200MP camera, Snapdragon 8 Gen 2", "image_url_s23ultra"),
-            ("Samsung", "Galaxy S23", 799.99m, "Galaxy S23 with Snapdragon 8 Gen 2, 50MP camera", "image_url_s23"),
-            ("Samsung", "Galaxy A54", 449.99m, "Galaxy A54 with 120Hz AMOLED display, 5G", "image_url_a54"),
-            ("Samsung", "Galaxy Z Flip 5", 999.99m, "Galaxy Z Flip 5 with foldable display", "image_url_zflip5"),
-            ("Samsung", "Galaxy A14", 249.99m, "Galaxy A14 with 6.6-inch display, 5G", "image_url_a14"),
+            ("Samsung", "Galaxy S23 Ultra", 1199.99m, "Galaxy S23 Ultra with 200MP camera, Snapdragon 8 Gen 2", "/uploads/image_url_s23ultra"),
+            ("Samsung", "Galaxy S23", 799.99m, "Galaxy S23 with Snapdragon 8 Gen 2, 50MP camera", "/uploads/image_url_s23"),
+            ("Samsung", "Galaxy A54", 449.99m, "Galaxy A54 with 120Hz AMOLED display, 5G", "/uploads/image_url_a54"),
+            ("Samsung", "Galaxy Z Flip 5", 999.99m, "Galaxy Z Flip 5 with foldable display", "/uploads/image_url_zflip5"),
+            ("Samsung", "Galaxy A14", 249.99m, "Galaxy A14 with 6.6-inch display, 5G", "/uploads/image_url_a14"),
 
             // Xiaomi
-            ("Xiaomi", "Xiaomi 13 Pro", 999.99m, "Xiaomi 13 Pro with Leica cameras, Snapdragon 8 Gen 2", "image_url_xiaomi13pro"),
-            ("Xiaomi", "Redmi Note 12", 199.99m, "Redmi Note 12 with 90Hz AMOLED, Snapdragon 680", "image_url_redminote12"),
-            ("Xiaomi", "Xiaomi 12", 749.99m, "Xiaomi 12 with 50MP camera, Snapdragon 8 Gen 1", "image_url_xiaomi12"),
-            ("Xiaomi", "Redmi K40", 399.99m, "Redmi K40 with Snapdragon 870, 120Hz AMOLED", "image_url_redmik40"),
-            ("Xiaomi", "Mi 11 Ultra", 749.00m, "Mi 11 Ultra with 50MP camera, Snapdragon 888", "image_url_mi11ultra"),
+            ("Xiaomi", "Xiaomi 13 Pro", 999.99m, "Xiaomi 13 Pro with Leica cameras, Snapdragon 8 Gen 2", "/uploads/image_url_xiaomi13pro"),
+            ("Xiaomi", "Redmi Note 12", 199.99m, "Redmi Note 12 with 90Hz AMOLED, Snapdragon 680", "/uploads/image_url_redminote12"),
+            ("Xiaomi", "Xiaomi 12", 749.99m, "Xiaomi 12 with 50MP camera, Snapdragon 8 Gen 1", "/uploads/image_url_xiaomi12"),
+            ("Xiaomi", "Redmi K40", 399.99m, "Redmi K40 with Snapdragon 870, 120Hz AMOLED", "/uploads/image_url_redmik40"),
+            ("Xiaomi", "Mi 11 Ultra", 749.00m, "Mi 11 Ultra with 50MP camera, Snapdragon 888", "/uploads/image_url_mi11ultra"),
 
             // Oppo
-            ("Oppo", "Oppo Find X5 Pro", 1199.99m, "Oppo Find X5 Pro with 50MP camera, Snapdragon 8 Gen 1", "image_url_findx5pro"),
-            ("Oppo", "Oppo Reno 8 Pro", 499.99m, "Oppo Reno 8 Pro with AMOLED display, MediaTek Dimensity 8100", "image_url_reno8pro"),
-            ("Oppo", "Oppo A78", 199.99m, "Oppo A78 with 90Hz display, MediaTek Dimensity 700", "image_url_a78"),
-            ("Oppo", "Oppo F21 Pro", 349.99m, "Oppo F21 Pro with 64MP camera, Snapdragon 680", "image_url_f21pro"),
-            ("Oppo", "Oppo A16", 129.99m, "Oppo A16 with 13MP camera, 5000mAh battery", "image_url_a16"),
+            ("Oppo", "Oppo Find X5 Pro", 1199.99m, "Oppo Find X5 Pro with 50MP camera, Snapdragon 8 Gen 1", "/uploads/image_url_findx5pro"),
+            ("Oppo", "Oppo Reno 8 Pro", 499.99m, "Oppo Reno 8 Pro with AMOLED display, MediaTek Dimensity 8100", "/uploads/image_url_reno8pro"),
+            ("Oppo", "Oppo A78", 199.99m, "Oppo A78 with 90Hz display, MediaTek Dimensity 700", "/uploads/image_url_a78"),
+            ("Oppo", "Oppo F21 Pro", 349.99m, "Oppo F21 Pro with 64MP camera, Snapdragon 680", "/uploads/image_url_f21pro"),
+            ("Oppo", "Oppo A16", 129.99m, "Oppo A16 with 13MP camera, 5000mAh battery", "/uploads/image_url_a16"),
 
             // Realme
-            ("Realme", "Realme GT 2 Pro", 749.99m, "Realme GT 2 Pro with Snapdragon 8 Gen 1, 50MP camera", "image_url_gt2pro"),
-            ("Realme", "Realme 10", 299.99m, "Realme 10 with MediaTek Helio G99, 50MP camera", "image_url_realme10"),
-            ("Realme", "Realme 9 Pro+", 349.99m, "Realme 9 Pro+ with 50MP camera, Snapdragon 695", "image_url_realme9pro"),
-            ("Realme", "Realme GT", 499.99m, "Realme GT with Snapdragon 870, 120Hz AMOLED", "image_url_gt"),
-            ("Realme", "Realme Narzo 50", 199.99m, "Realme Narzo 50 with MediaTek Helio G96, 5000mAh battery", "image_url_narzo50")
+            ("Realme", "Realme GT 2 Pro", 749.99m, "Realme GT 2 Pro with Snapdragon 8 Gen 1, 50MP camera", "/uploads/image_url_gt2pro"),
+            ("Realme", "Realme 10", 299.99m, "Realme 10 with MediaTek Helio G99, 50MP camera", "/uploads/image_url_realme10"),
+            ("Realme", "Realme 9 Pro+", 349.99m, "Realme 9 Pro+ with 50MP camera, Snapdragon 695", "/uploads/image_url_realme9pro"),
+            ("Realme", "Realme GT", 499.99m, "Realme GT with Snapdragon 870, 120Hz AMOLED", "/uploads/image_url_gt"),
+            ("Realme", "Realme Narzo 50", 199.99m, "Realme Narzo 50 with MediaTek Helio G96, 5000mAh battery", "/uploads/image_url_narzo50")
         };
 
         // Loop through each product and add it to the database

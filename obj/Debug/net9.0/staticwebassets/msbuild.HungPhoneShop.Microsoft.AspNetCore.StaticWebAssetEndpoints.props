@@ -768,5 +768,185 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 01 Apr 2025 17:39:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_a14.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_a14.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26278"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:13:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_a14.qhxjjt1500.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_a14.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qhxjjt1500"},{"Name":"integrity","Value":"sha256-sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_a14.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26278"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sviPJ4wd5O7ZJ1apIxQN61ZK8pkvn8/yJFN/qkGHpdk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:13:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_a54.0a4joizct3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_a54.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0a4joizct3"},{"Name":"integrity","Value":"sha256-mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_a54.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28221"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:13:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_a54.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_a54.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28221"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mJP4hCtxounQVhufqeb01/U44tPydSpriwJgMlJHJmk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:13:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone13.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone13.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"144577"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:10:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone13.y0jqbuqjeq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone13.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y0jqbuqjeq"},{"Name":"integrity","Value":"sha256-0mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_iphone13.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"144577"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220mXIQvKBW58k/Ce3OUT7RwWIiYaNcOvvDzLOKVdnzIE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:10:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone14pro.10xw96tnud.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone14pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"10xw96tnud"},{"Name":"integrity","Value":"sha256-EYBcTi501ZRsEn5Y8GNqprMumeO\u002Bf1ianoj\u002BEXqp\u002B6E="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_iphone14pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79559"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022EYBcTi501ZRsEn5Y8GNqprMumeO\u002Bf1ianoj\u002BEXqp\u002B6E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:09:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone14pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone14pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EYBcTi501ZRsEn5Y8GNqprMumeO\u002Bf1ianoj\u002BEXqp\u002B6E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"79559"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022EYBcTi501ZRsEn5Y8GNqprMumeO\u002Bf1ianoj\u002BEXqp\u002B6E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:09:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone15.2tt3cdv4ws.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone15.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2tt3cdv4ws"},{"Name":"integrity","Value":"sha256-pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/\u002B2mM="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_iphone15.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"61403"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/\u002B2mM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:08:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone15.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone15.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/\u002B2mM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"61403"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pokM1QTicPYmLlXJuKgwezmMUOIatm/q4JT/D7/\u002B2mM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:08:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone16.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone16.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"38069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:07:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphone16.l4z8x9a2s8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphone16.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l4z8x9a2s8"},{"Name":"integrity","Value":"sha256-1QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_iphone16.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38069"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221QgzKQR0eKsmXNmXqw9q2H8r2Ob0bzB8rpOQpdRou7o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:07:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphonese2023.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphonese2023.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xk00qpFmoZlMD4mfgtFTz5GShNXSn\u002BNCLxwL2ta7R74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13268"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xk00qpFmoZlMD4mfgtFTz5GShNXSn\u002BNCLxwL2ta7R74=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:11:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_iphonese2023.yzt2d7ak7g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_iphonese2023.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yzt2d7ak7g"},{"Name":"integrity","Value":"sha256-Xk00qpFmoZlMD4mfgtFTz5GShNXSn\u002BNCLxwL2ta7R74="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_iphonese2023.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13268"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xk00qpFmoZlMD4mfgtFTz5GShNXSn\u002BNCLxwL2ta7R74=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:11:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_mi11ultra.gnl3vtenir.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_mi11ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gnl3vtenir"},{"Name":"integrity","Value":"sha256-pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_mi11ultra.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128014"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:15:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_mi11ultra.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_mi11ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"128014"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pLzVDxea0RfZF4jRKIICHe9Jx3H/mJ7YAfv/wp0OZPA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:15:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_redmik40.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_redmik40.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1\u002BmNmLicA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17120"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1\u002BmNmLicA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:15:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_redmik40.u6wu84w01r.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_redmik40.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u6wu84w01r"},{"Name":"integrity","Value":"sha256-imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1\u002BmNmLicA="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_redmik40.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17120"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022imljlA5sLlrPD2HABFANg1mNjoIy09G5ht1\u002BmNmLicA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:15:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_redminote12.0sjli0ithu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_redminote12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0sjli0ithu"},{"Name":"integrity","Value":"sha256-oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_redminote12.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"235730"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:14:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_redminote12.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_redminote12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"235730"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oPYdhzSXtOGwYlxurUANDg49SdHPdXQMb571/wt8Lvg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:14:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_s23.9hki0enf64.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_s23.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9hki0enf64"},{"Name":"integrity","Value":"sha256-LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_s23.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"782709"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:12:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_s23.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_s23.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"782709"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LWCYqnDGCpBvJm/EzLvihHlwRchNrIvvNvnV1bhGFx4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:12:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_s23ultra.e7ttpj7ed8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_s23ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e7ttpj7ed8"},{"Name":"integrity","Value":"sha256-Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_s23ultra.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"93020"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:12:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_s23ultra.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_s23ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"93020"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Gg6OoJ2yGY97e0HLDpb4/yfcZ/AINev71Jb4ttsN36g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:12:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_xiaomi12.bxcskkvebz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_xiaomi12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bxcskkvebz"},{"Name":"integrity","Value":"sha256-bwRrm3i3Kd94oHWK1PKHQee\u002BAFJ1qM4yarisoMsvTeM="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_xiaomi12.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55117"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bwRrm3i3Kd94oHWK1PKHQee\u002BAFJ1qM4yarisoMsvTeM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:15:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_xiaomi12.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_xiaomi12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bwRrm3i3Kd94oHWK1PKHQee\u002BAFJ1qM4yarisoMsvTeM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55117"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bwRrm3i3Kd94oHWK1PKHQee\u002BAFJ1qM4yarisoMsvTeM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:15:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_xiaomi13pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_xiaomi13pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39887"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:14:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_xiaomi13pro.qtw0ji5lpt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_xiaomi13pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qtw0ji5lpt"},{"Name":"integrity","Value":"sha256-LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_xiaomi13pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39887"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LrE6UP/VkB4llewDaVsqSk1nP5Oig6n0GuQrjTbKSYc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:14:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_zflip5.jaonrcrwe3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_zflip5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jaonrcrwe3"},{"Name":"integrity","Value":"sha256-RcpigQ1mJu\u002ByDZb1BVqKbsl18kuZSx7DP2frxm8rzBM="},{"Name":"label","Value":"_content/HungPhoneShop/uploads/image_url_zflip5.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45681"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RcpigQ1mJu\u002ByDZb1BVqKbsl18kuZSx7DP2frxm8rzBM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:13:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HungPhoneShop/uploads/image_url_zflip5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image_url_zflip5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RcpigQ1mJu\u002ByDZb1BVqKbsl18kuZSx7DP2frxm8rzBM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45681"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RcpigQ1mJu\u002ByDZb1BVqKbsl18kuZSx7DP2frxm8rzBM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 04:13:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
