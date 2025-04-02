@@ -1,0 +1,85 @@
+@model IEnumerable<HungPhoneShop.Models.Product>
+
+<h2>Products</h2>
+
+<form asp-action="Index" method="get">
+    <div class="form-group">
+        <label>Search by Name:</label>
+        <input name="searchString" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Brand:</label>
+        <input name="brand" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Min Price:</label>
+        <input name="minPrice" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Max Price:</label>
+        <input name="maxPrice" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Features:</label>
+        <input name="features" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Sort By:</label>
+        <select name="sortOrder" class="form-control">
+            <option value="">Default</option>
+            <option value="price_asc">Price: Low to High</option>
+            <option value="price_desc">Price: High to Low</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@item.ImageUrl" alt="@item.Name" style="width: 50px; height: 50px; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <img src="https://via.placeholder.com/50" alt="Placeholder" style="width: 50px; height: 50px; object-fit: cover;" />
+                    }
+                </td>
+                <td>@item.Name</td>
+                <td>@item.Brand</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@item.Category.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    @if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    }
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <span> | </span><a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+{
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+}

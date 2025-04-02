@@ -1,0 +1,46 @@
+@model HungPhoneShop.Models.Order
+
+<h2>Order Confirmation</h2>
+
+<p>Thank you for your order! Your order has been placed successfully.</p>
+
+<h4>Order Details</h4>
+<p>Order ID: @Model.Id</p>
+<p>Order Date: @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+<p>Status: @Model.Status</p>
+
+<h5>Items</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderDetails)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Product.ImageUrl))
+                    {
+                        <img src="@item.Product.ImageUrl" alt="@item.Product.Name" style="width: 50px; height: 50px; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <img src="https://via.placeholder.com/50" alt="Placeholder" style="width: 50px; height: 50px; object-fit: cover;" />
+                    }
+                </td>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@(item.Quantity * item.Price).ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Continue Shopping</a>

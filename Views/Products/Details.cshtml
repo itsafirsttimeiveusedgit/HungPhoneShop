@@ -1,0 +1,44 @@
+@model HungPhoneShop.Models.Product
+
+<h2>Product Details</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" class="img-fluid" alt="@Model.Name" style="max-height: 300px; object-fit: cover;" />
+        }
+        else
+        {
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Placeholder" style="max-height: 300px; object-fit: cover;" />
+        }
+    </div>
+    <div class="col-md-8">
+        <h4>@Model.Name</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">Name</dt>
+            <dd class="col-sm-10">@Model.Name</dd>
+            <dt class="col-sm-2">Brand</dt>
+            <dd class="col-sm-10">@Model.Brand</dd>
+            <dt class="col-sm-2">Price</dt>
+            <dd class="col-sm-10">@Model.Price.ToString("C")</dd>
+            <dt class="col-sm-2">Features</dt>
+            <dd class="col-sm-10">@Model.Features</dd>
+            <dt class="col-sm-2">Category</dt>
+            <dd class="col-sm-10">@Model.Category.Name</dd>
+        </dl>
+        @if (User.IsInRole("Customer"))
+        {
+            <form asp-controller="Cart" asp-action="Add" method="post">
+                <input type="hidden" name="productId" value="@Model.Id" />
+                <div class="form-group">
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" name="quantity" value="1" min="1" class="form-control" style="width: 100px; display: inline-block;" />
+                </div>
+                <button type="submit" class="btn btn-primary">Add to Cart</button>
+            </form>
+        }
+        <a asp-action="Index" class="btn btn-secondary mt-2">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<HungPhoneShop.Models.Product>
+
+@{
+    ViewData["Title"] = "HungPhoneShop - Home";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+    @if (User.Identity != null && User.Identity.IsAuthenticated)
+    {
+        string fullName = User.FindFirst("FullName")?.Value ?? "User";
+        string firstName = fullName.Split(' ').FirstOrDefault() ?? "User";
+        <h1 class="display-4">Welcome to HungPhoneShop, @firstName!</h1>
+    }
+    else
+    {
+        <h1 class="display-4">Welcome to HungPhoneShop, Guest!</h1>
+    }
+    <p>Explore our wide range of phones and accessories!</p>
+    </div>
+
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name" style="height: 200px; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <img src="https://via.placeholder.com/200" class="card-img-top" alt="Placeholder" style="height: 200px; object-fit: cover;" />
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">
+                            <strong>Brand:</strong> @product.Brand<br />
+                            <strong>Price:</strong> @product.Price.ToString("C")<br />
+                            <strong>Category:</strong> @product.Category.Name<br />
+                            <strong>Features:</strong> @product.Features
+                        </p>
+                        <a asp-controller="Products" asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary">View Details</a>
+                        @if (User.IsInRole("Customer"))
+                        {
+                            <form asp-controller="Cart" asp-action="Add" method="post" class="d-inline">
+                                <input type="hidden" name="productId" value="@product.Id" />
+                                <input type="hidden" name="quantity" value="1" />
+                                <button type="submit" class="btn btn-success">Add to Cart</button>
+                            </form>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

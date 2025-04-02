@@ -1,0 +1,191 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/* Đảm bảo layout chiếm toàn bộ chiều cao */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer {
+  flex-shrink: 0;
+  transition: background-color 0.5s ease; /* Hiệu ứng chuyển màu mượt mà */
+}
+
+/* Hiệu ứng hover cho card sản phẩm */
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Navbar với hiệu ứng chuyển màu */
+.navbar {
+  transition: background-color 0.5s ease;
+}
+
+/* Giao diện mặc định cho Guest */
+.guest-theme .navbar {
+  background-color: #343a40; /* Màu xám đậm mặc định của Bootstrap */
+}
+
+.guest-theme footer {
+  background-color: #343a40;
+}
+
+.guest-theme .role-indicator {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.guest-theme .role-indicator i {
+  color: #ffffff;
+}
+
+.guest-theme .welcome-banner {
+  background-color: #f8f9fa; /* Màu xám nhạt */
+  color: #343a40;
+}
+
+/* Giao diện cho Admin */
+.admin-theme .navbar {
+  background-color: #dc3545; /* Màu đỏ */
+}
+
+.admin-theme footer {
+  background-color: #dc3545;
+}
+
+.admin-theme .role-indicator {
+  color: #ffeb3b; /* Màu vàng sáng để nổi bật */
+  font-weight: bold;
+}
+
+.admin-theme .role-indicator i {
+  color: #ffeb3b; /* Màu vàng sáng cho biểu tượng */
+}
+
+.admin-theme .welcome-banner {
+  background-color: #dc3545;
+  color: #ffffff;
+}
+
+/* Giao diện cho Employee */
+.employee-theme .navbar {
+  background-color: #007bff; /* Màu xanh dương */
+}
+
+.employee-theme footer {
+  background-color: #007bff;
+}
+
+.employee-theme .role-indicator {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.employee-theme .role-indicator i {
+  color: #ffffff;
+}
+
+.employee-theme .welcome-banner {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+/* Giao diện cho Customer */
+.customer-theme .navbar {
+  background-color: #28a745; /* Màu xanh lá */
+}
+
+.customer-theme footer {
+  background-color: #28a745;
+}
+
+.customer-theme .role-indicator {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.customer-theme .role-indicator i {
+  color: #ffffff;
+}
+
+.customer-theme .welcome-banner {
+  background-color: #28a745;
+  color: #ffffff;
+}
+
+/* Giao diện cho Company */
+.company-theme .navbar {
+  background-color: #6f42c1; /* Màu tím */
+}
+
+.company-theme footer {
+  background-color: #6f42c1;
+}
+
+.company-theme .role-indicator {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.company-theme .role-indicator i {
+  color: #ffffff;
+}
+
+.company-theme .welcome-banner {
+  background-color: #6f42c1;
+  color: #ffffff;
+}
+
+/* Định dạng cho banner chào mừng */
+.welcome-banner {
+  transition: background-color 0.5s ease;
+}
+
+.welcome-banner h4 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+/* Định dạng cho biểu tượng vai trò */
+.role-indicator i {
+  margin-right: 5px;
+}

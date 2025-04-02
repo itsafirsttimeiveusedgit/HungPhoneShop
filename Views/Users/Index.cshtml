@@ -1,0 +1,25 @@
+@model IEnumerable<HungPhoneShop.Controllers.UserRolesViewModel>
+
+<h2>Manage Users</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Roles</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@string.Join(", ", user.Roles)</td>
+                <td>
+                    <a asp-action="ManageRoles" asp-route-id="@user.UserId" class="btn btn-primary">Manage Roles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

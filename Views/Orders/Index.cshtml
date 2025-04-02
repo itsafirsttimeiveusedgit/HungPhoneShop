@@ -1,0 +1,41 @@
+@model IEnumerable<HungPhoneShop.Models.Order>
+
+<h2>Orders</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>User ID</th>
+            <th>Order Date</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.Id</td>
+                <td>@order.UserId</td>
+                <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@order.Status</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@order.Id" class="btn btn-info">Details</a>
+                    @if (User.IsInRole("Employee"))
+                    {
+                        <form asp-action="UpdateStatus" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@order.Id" />
+                            <select name="status" onchange="this.form.submit()">
+                                <option value="Pending" selected="@(order.Status == "Pending" ? "selected" : null)">Pending</option>
+                                <option value="Processing" selected="@(order.Status == "Processing" ? "selected" : null)">Processing</option>
+                                <option value="Shipped" selected="@(order.Status == "Shipped" ? "selected" : null)">Shipped</option>
+                                <option value="Delivered" selected="@(order.Status == "Delivered" ? "selected" : null)">Delivered</option>
+                            </select>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

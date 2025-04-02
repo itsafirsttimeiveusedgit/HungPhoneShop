@@ -1,0 +1,8 @@
+<h2>Checkout</h2>
+
+<p>Are you sure you want to place this order?</p>
+
+<form asp-action="CheckoutConfirmed" method="post">
+    <button type="submit" class="btn btn-success">Confirm Order</button>
+    <a asp-controller="Cart" asp-action="Index" class="btn btn-secondary">Back to Cart</a>
+</form>
