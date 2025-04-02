@@ -80,7 +80,7 @@ namespace HungPhoneShop.Controllers
         [Authorize(Roles = "Admin,Employee")]
         public IActionResult Create()
         {
-            ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name"); // Hiển thị Id trong dropdown
+            ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Id"); // Hiển thị Id trong dropdown
             ViewBag.CategoryList = _context.Categories.ToList(); // Truyền danh sách danh mục để JavaScript sử dụng
             return View();
         }
@@ -90,15 +90,14 @@ namespace HungPhoneShop.Controllers
         [Authorize(Roles = "Admin,Employee")]
         public async Task<IActionResult> Create(Product product)
         {
+            // Lấy đối tượng Category dựa trên CategoryId
+            product.Category = await _context.Categories.FindAsync(product.CategoryId);
 
             if (product.Category == null)
             {
                 ModelState.AddModelError("CategoryId", "Invalid Category.");
                 return View(product);
             }
-
-            // Lấy đối tượng Category dựa trên CategoryId
-            product.Category = await _context.Categories.FindAsync(product.CategoryId);
 
             if (!ModelState.IsValid)
             {
@@ -115,7 +114,7 @@ namespace HungPhoneShop.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Id");
+            ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name");
             ViewBag.CategoryList = _context.Categories.ToList();
             return View(product);
         }

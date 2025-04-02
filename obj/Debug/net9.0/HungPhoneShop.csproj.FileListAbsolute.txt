@@ -234,3 +234,4 @@ C:\Users\Hung\HungPhoneShop\obj\Debug\net9.0\HungPhoneShop.pdb
 C:\Users\Hung\HungPhoneShop\obj\Debug\net9.0\HungPhoneShop.genruntimeconfig.cache
 C:\Users\Hung\HungPhoneShop\obj\Debug\net9.0\ref\HungPhoneShop.dll
 C:\Users\Hung\HungPhoneShop\obj\Debug\net9.0\compressed\gdrptn38qg-axi6dnb1on.gz
+C:\Users\Hung\HungPhoneShop\obj\Debug\net9.0\HungPhoneShop.sourcelink.json

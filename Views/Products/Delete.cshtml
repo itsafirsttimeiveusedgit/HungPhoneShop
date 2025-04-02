@@ -1,0 +1,12 @@
+@model HungPhoneShop.Models.Product
+<h2>Delete Product</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>@Model.Name</h4>
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>

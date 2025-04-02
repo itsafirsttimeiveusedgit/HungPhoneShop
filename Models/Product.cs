@@ -9,6 +9,6 @@ namespace HungPhoneShop.Models
         public required string Features { get; set; }
         public string? ImageUrl { get; set; } // Thêm trường ImageUrl
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public virtual Category? Category { get; set; }
     }
 }
